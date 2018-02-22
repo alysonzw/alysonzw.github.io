@@ -1,0 +1,28 @@
+h1{
+	color: #89cff0;
+}
+
+.title {
+	text-align: center;
+}
+
+#pizza{
+	font-size: 50px;
+}
+
+ol{
+	font-size: 24px;
+}
+
+a{
+	color: #b2b2ff;
+	text-decoration: none;
+}
+
+a:visited{
+	color:#ff69b4;
+}
+
+a:hover{
+	color:#ffff00;
+}
